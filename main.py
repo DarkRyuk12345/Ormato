@@ -15,9 +15,16 @@ class Ormato:
         self.helpers = hs
         self.types = ty
         self.interface = Interface
+        
 
+            
+
+
+
+
+    
 
 
 print(Ormato().types().User(5, 8372717).location["city"])
-
+print(Ormato().interface().startup(Ormato().types.User(22, 55)))
 
