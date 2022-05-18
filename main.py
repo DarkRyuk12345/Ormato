@@ -16,12 +16,6 @@ class Ormato:
         self.types = ty
         self.interface = Interface
 
-            
-
-
-
-
-    
 
 
 print(Ormato().types().User(5, 8372717).location["city"])
